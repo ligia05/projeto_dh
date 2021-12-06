@@ -1,0 +1,23 @@
+{
+  "name": "projeto_DH",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ligia05/projeto_dh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ligia05/projeto_dh/issues"
+  },
+  "homepage": "https://github.com/ligia05/projeto_dh#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
